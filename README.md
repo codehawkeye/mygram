@@ -1,2 +1,0 @@
-# mygram
-instagram clone
